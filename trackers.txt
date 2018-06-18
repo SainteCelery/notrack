@@ -1,5 +1,11 @@
-#NoTrack Blocklist updated 08 Jun 2018
-#LatestVersion 0.8.9
+# Title : NoTrack Blocklist 
+# Description : Tracker Domains Block List from quidsup.net
+# Author : QuidsUp
+# License : GNU General Public License v3.0
+# Home : https://quidsup.net/notrack/blocklist.php
+# @ GitHub : https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+# Updated : 08 Jun 2018
+# LatestVersion : 0.8.9
 1-cl0ud.com #Lead Forensics
 1-creative-1.com #Lead Forensics
 103bees.com #Tracker Unknown
